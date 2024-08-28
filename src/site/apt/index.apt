@@ -1,0 +1,14 @@
+	------
+	Flow Framework
+	------
+
+What is Flow Framework?
+
+	
+	Flow Framework provides common artifacts needed for building components that can participate in event flows and exchange and
+	process events.
+	
+When to use Flow Framework?
+
+	Flow Framework should be used whenever you are building reusable components that operate on events. Reusable components can be deployed
+	in all environments using Flow Framework.	

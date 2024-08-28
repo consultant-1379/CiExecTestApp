@@ -1,0 +1,20 @@
+	------
+	Flow Framework - Useful reading
+	------
+	
+Flow Framework - Useful reading
+
+	Use IE or Opera, CDM might cause problems with other browsers.
+
+	[[1]] {{{http://docs.jboss.org/weld/reference/1.0.0/en-US/html/index.html}Weld reference}}
+	
+	[[2]] {{{http://docs.oracle.com/javaee/6/tutorial/doc/}Oracle JEE tutorial}}
+	
+	[[3]] {{{http://cdmweb.ericsson.se/WEBLINK/ViewDocs?DocumentName=LMI-11%3A1951&Latest=true}Reference Architecture}}
+	
+	[[4]] {{{http://cdmweb.ericsson.se/WEBLINK/ViewDocs?DocumentName=LMI-11%3A2242&Latest=true}Common Architecture}}
+	
+	[[5]] {{{http://confluence-oss.lmera.ericsson.se/display/OSSARCH/OSS+Architecture}OSS Architecture}}
+	
+	[]
+

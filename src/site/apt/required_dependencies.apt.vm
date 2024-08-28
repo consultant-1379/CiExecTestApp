@@ -1,0 +1,11 @@
+	------
+	Required Dependencies
+	------
+
+Required Dependencies
+	
+* Java and JEE Platform
+
+	Flow Framework is tested against Oracle Java 1.7.x. 
+	
+	Flow Framework does not have dependencies on JEE platform.

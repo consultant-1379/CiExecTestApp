@@ -1,0 +1,34 @@
+	------
+	Flow Framework Glossary
+	------
+	
+Flow Framework Glossary
+
+
+*-------------------+----------------------------------------------+
+| JEE               | Java Enterprise Edition                      |
+*-------------------+----------------------------------------------+
+| CDI               | Contexts and Dependency Injection            |
+*-------------------+----------------------------------------------+
+| JMX               | Java Management Extensions                   |
+*-------------------+----------------------------------------------+
+| EJB               | Enterprise Java Bean                         | 
+*-------------------+----------------------------------------------+
+| MDB               | Message Driven Bean                          | 
+*-------------------+----------------------------------------------+
+| SLSB              | Stateless Session Bean                       |
+*-------------------+----------------------------------------------+
+| SFSB              | Statefull Session Bean                       |
+*-------------------+----------------------------------------------+
+| POJO              | Plain Old Java Object                        |
+*-------------------+----------------------------------------------+
+| EAR               | Enterprise Archive                           |
+*-------------------+----------------------------------------------+
+| WAR               | Web Archive                                  |
+*-------------------+----------------------------------------------+
+| BOM               | Bill of Materials - Maven concept            |
+*-------------------+----------------------------------------------+
+| Deployable entity | Packages that can be deployed (EAR/WAR)      |
+*-------------------+----------------------------------------------+
+
+	Also take a look at {{{http://atrclin2.athtem.eei.ericsson.se/wiki/index.php/OSS_Terminology}OSS Terminology}}
